@@ -1,7 +1,7 @@
 # Daily Learning
-![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
-## Morning Planning
 
+## Morning Planning
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 ## Review
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
